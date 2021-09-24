@@ -1,4 +1,5 @@
 Cài đặt Elasticsearch trên CentOS
 Tạo và cập nhật Index, Document trong Elasticsearch
 Truy vấn tìm kiếm trên Elasticsearch
+Xây dựng chức năng tìm kiếm của ứng dụng với PHP và Elasticsearch
     
